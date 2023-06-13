@@ -1,0 +1,34 @@
+html,body{
+    background-color: #c9ada7;
+    
+}
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    padding: 30px;
+    background-color: #22223b;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+  }
+  
+  #imageContainer {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #dogImage {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #fetchButton {
+    padding: 6px 10px;
+    margin-top: 20px;
+    background-color: #4a4e69;
+    color:white;
+  }
